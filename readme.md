@@ -2,5 +2,6 @@
 
 mi challenge del amigo secreto
 
+ingrese nombres y luego dar añadir
 
-<video controls src="20250318-1919-53.5991951.mp4" title="Title"></video>
+
